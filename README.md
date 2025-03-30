@@ -1,5 +1,6 @@
 Web7.0(OJ7)
 ===========
+<img width="100" alt="WEB7 0(Oj7)" src="https://github.com/user-attachments/assets/7a286981-e68a-4aec-a628-26386211f2d6" />
 
 Web7.0 Programming Language is  invented by  wilmix jemin  j  at  year  2013,2016 in  java(jdk1.6) ,DOTWEB3.0. 
 and Web7.0(OJ7) is  a World Rank A' Programming Language and  it  is   focused  on   creating  DataStructures,Console Application with Wnosql DB, and
