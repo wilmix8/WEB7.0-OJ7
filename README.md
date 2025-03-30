@@ -552,6 +552,7 @@ it will generate the  .exe files and  .ojava7 files.
 
 Note: 
 
-This docuemnt is under  construction.
+This document is under  construction.The website for WEB7.0(OJ7) Programming Language is to be
+changed due  to hackers and cybercrime attack.
 
 
