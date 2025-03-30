@@ -120,7 +120,7 @@ Note: OJava7  has  more  advantages than i  given  above..
 
 
 Did WEB7.0(OJ7) has limitations?
-===========================
+===============================
 
 
 
@@ -348,7 +348,8 @@ This Web7.0 tutorial is  GNU GPL3 licensed.
 
 For Web7.0 Programming Language tutorial  see :
 
-https://sites.google.com/view/oakjava7programminglanguage
+(url for  Web7.0 Programming Language tutorial is under construction).
+
 
 About the Web7.0 Programming Language
 =========================================
