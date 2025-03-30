@@ -113,7 +113,7 @@ This tutorial website  is under  construction.
 n) Due to  this  High security Remote -X Application , High security Webapplications ,Other Advantages,
 and  Other Concepts  So it is Ranked as World Rank A' Programming Language
 
-Note: OJava7  has  more  advantages than i  given  above..
+Note: WEB7.0(OJ7)  has  more  advantages than i  given  above..
 
 
 
@@ -171,7 +171,7 @@ than C/C++.For Remote X application instead we use
 
 If you know OJ7UA framework then it is very easy
 
-to focus Ojava7 Remote X application.only the
+to focus WEB7.0(OJ7) Remote X application.only the
 
 Syntax <WEB> or <WEB7> is  replaced by   <J7Remote>
 
