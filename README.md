@@ -551,9 +551,28 @@ We can also generate .dll  using this syntax by using .dll value as a Type.
 So when you include .exe value as a Type means when you compile the WEB7.0(OJ7)
 it will generate the  .exe files and  .ojava7 files.
 
+Why WEB7.0(OJ7) syntax is created like <JAVA> or  <JAVA7> ?
+
+Because Java fails in code security,Security.If a 
+person write java program , Java Source code
+will be taken by  hackers ,etc.
+So WEB7.0(OJ7) is  used  with Java/j2ee.
+WEB7.0(OJ7) is  a  Rank A' Programming Language.
+Java is used with WEB7.0(OJ7)
+so the <JAVA> or  <JAVA7> syntax is  focused 
+for WEB7.0(OJ7) Programming Language.
+So we can say two (Java and  WEB7.0(OJ7) )
+is  in our computer field market.
+So we can say WEB7.0(OJ7) is the 
+Java type  group.WEB7.0(OJ7) provides
+high security where java becomes like 
+a Securable software for webapplication.
+
 Note: 
 
 This document is under  construction.The website for WEB7.0(OJ7) Programming Language is to be
-changed due  to hackers and cybercrime attack.
+changed due  to hackers and cybercrime attack. WEB&.0(OJ7) Website is  changed  as  a  beautiful webpage.
+Samples ,Advanced samples, Machine learning, Datascience etc  is under construction.
+
 
 
