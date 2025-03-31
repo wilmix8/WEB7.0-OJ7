@@ -558,11 +558,12 @@ it will generate the  .exe files and  .ojava7 files.
 
 
 
+<BR><BR>
 
 
 
-
-Why WEB7.0(OJ7) syntax is created like <JAVA> or  <JAVA7> ?
+Why WEB7.0(OJ7) syntax is created like <<JAVA>> or  <<JAVA7>> ?
+<BR>
 
 Because Java fails in code security,Security.If a 
 person write java program , Java Source code
@@ -579,10 +580,12 @@ Java type  group.WEB7.0(OJ7) provides
 high security where java becomes like 
 a Securable software for webapplication.
 
-
+<BR><BR><BR>
 
 
 Note: 
+
+<BR>
 
 
 This document is under  construction.The website for WEB7.0(OJ7) Programming Language is to be
